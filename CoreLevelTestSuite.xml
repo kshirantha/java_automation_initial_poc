@@ -1,0 +1,7 @@
+<suite name="CoreLevelTestSuite">
+    <test name="CoreLevelTestSuite">
+        <classes>
+            <class name="core.CoreIssueLocation"/>
+        </classes>
+    </test>
+</suite>

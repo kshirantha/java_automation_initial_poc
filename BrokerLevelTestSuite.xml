@@ -1,0 +1,7 @@
+<suite name="BrokerLevelTestSuite">
+    <test name="BrokerLevelTestSuite">
+        <classes>
+
+        </classes>
+    </test>
+</suite>
